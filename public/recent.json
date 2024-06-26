@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "title": "Elegant Garden Wedding",
+      "details": "An exquisite garden wedding with floral arrangements and gourmet catering.",
+      "image": "https://i.ibb.co/3k916G7/mp-4.jpg",
+      "event_date": "2023-06-12",
+      "location": "Rosewood Gardens",
+      "event_visitors": 150
+    },
+    {
+      "id": 2,
+      "title": "Beachfront Bliss Ceremony",
+      "details": "A serene beachfront wedding with a sunset ceremony and tropical decor.",
+      "image": "https://i.ibb.co/34xNbjL/istockphoto-1184628725-612x612.jpg",
+      "event_date": "2023-07-05",
+      "location": "Sunset Beach Resort",
+      "event_visitors": 200
+    },
+    {
+      "id": 3,
+      "title": "Rustic Barn Wedding",
+      "details": "A charming barn wedding with rustic decor and a country theme.",
+      "image": "https://i.ibb.co/4190QRx/wedding-lawns-in-dwarka-delhi-to-host-the-most-special-day-of-your-life.jpg",
+      "event_date": "2023-08-19",
+      "location": "Willow Creek Farm",
+      "event_visitors": 120
+    },
+    {
+      "id": 4,
+      "title": "Vintage Elegance",
+      "details": "A sophisticated vintage-themed wedding with classic decorations and live jazz music.",
+      "image": "https://i.ibb.co/vkfdDLZ/destination-wedding-planning-company.png",
+      "event_date": "2023-09-22",
+      "location": "Grand Heritage Hotel",
+      "event_visitors": 180
+    },
+    {
+      "id": 5,
+      "title": "Bohemian Chic Celebration",
+      "details": "A bohemian-style wedding with eclectic decor and a relaxed atmosphere.",
+      "image": "https://i.ibb.co/Z1Cqksy/wedding-event.jpg",
+      "event_date": "2023-10-11",
+      "location": "Lakeside Retreat",
+      "event_visitors": 140
+    },
+    {
+      "id": 6,
+      "title": "Luxurious Ballroom Wedding",
+      "details": "An opulent ballroom wedding with grand decorations and a gourmet dinner.",
+      "image": "https://i.ibb.co/bB5HTtk/pexels-fu-zhichao-176355-587741.jpg",
+      "event_date": "2023-11-09",
+      "location": "Royal Palace Hotel",
+      "event_visitors": 220
+    },
+    {
+      "id": 7,
+      "title": "Mountain Top Vows",
+      "details": "A breathtaking mountain top wedding with panoramic views and an intimate setting.",
+      "image": "https://i.ibb.co/JHfzrmX/pexels-pixabay-50675.jpg",
+      "event_date": "2023-12-20",
+      "location": "Skyline Mountain Resort",
+      "event_visitors": 100
+    },
+    {
+      "id": 8,
+      "title": "Urban Chic Ceremony",
+      "details": "A modern urban wedding with sleek decor and a cityscape backdrop.",
+      "image": "https://i.ibb.co/jJJgHF0/pexels-ywanphoto-57980.jpg",
+      "event_date": "2024-01-15",
+      "location": "City Loft Venue",
+      "event_visitors": 170
+    },
+    {
+      "id": 9,
+      "title": "Fairy Tale Castle Wedding",
+      "details": "A magical castle wedding with fairy tale decor and an enchanting ambiance.",
+      "image": "https://i.ibb.co/nsYfbL9/pexels-asadphoto-169198.jpg",
+      "event_date": "2024-02-10",
+      "location": "Emerald Castle",
+      "event_visitors": 200
+    },
+    {
+      "id": 10,
+      "title": "Tropical Paradise Wedding",
+      "details": "A vibrant tropical wedding with lush decor and island-inspired cuisine.",
+      "image": "https://i.ibb.co/bB5HTtk/pexels-fu-zhichao-176355-587741.jpg",
+      "event_date": "2024-03-05",
+      "location": "Palm Cove Resort",
+      "event_visitors": 160
+    },
+    {
+      "id": 11,
+      "title": "Winter Wonderland Wedding",
+      "details": "A cozy winter wedding with snowy decor and warm, festive atmosphere.",
+      "image": "https://i.ibb.co/vkfdDLZ/destination-wedding-planning-company.png",
+      "event_date": "2024-04-02",
+      "location": "Frosty Pines Lodge",
+      "event_visitors": 130
+    },
+    {
+      "id": 12,
+      "title": "Mediterranean Dream Wedding",
+      "details": "An enchanting Mediterranean-style wedding with vibrant decor and delicious cuisine.",
+      "image": "https://i.ibb.co/Z2TP0yP/images-1.jpg",
+      "event_date": "2024-05-25",
+      "location": "Villa Bella Vista",
+      "event_visitors": 180
+    }
+  ]
+  
